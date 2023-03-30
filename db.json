@@ -13,12 +13,6 @@
       "isInCart": false
     },
     {
-      "id": 3,
-      "name": "Lettuce",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
@@ -35,6 +29,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Broccoli",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
